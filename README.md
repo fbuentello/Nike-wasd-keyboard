@@ -3,7 +3,7 @@
 
 A custom [WASD Keyboards](http://www.wasdkeyboards.com/) layout that targets Nike/basketball fans.
 
-![Preview](https://raw.github.com/aasmith/mac-wasd-keyboard/master/custom-mac-layout.png)
+![Preview](https://github.com/fbuentello/Nike-wasd-keyboard/blob/master/nike_basketball.png)
 
 How to 
 ========
